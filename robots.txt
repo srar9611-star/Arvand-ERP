@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://srar9611-star.github.io/Arvanderp/sitemap.xml
